@@ -1,4 +1,4 @@
-# Caminho de aprendizagem em Análise/Engenharia/Ciência de  Dados
+# Caminho de aprendizagem em Análise/Ciência de  Dados
 
 ## Data Science:
 ModeloEmPython é um exercício que responde a probabilidade de sobrevivência dos passageiros do Titanic.

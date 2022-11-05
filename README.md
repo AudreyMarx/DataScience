@@ -1,12 +1,12 @@
 # Caminho de aprendizagem em Análise/Ciência de  Dados
 
 ## Data Science:
-ModeloEmPython é um exercício que responde a probabilidade de sobrevivência dos passageiros do Titanic.
+*ModeloEmPython* é um exercício que responde a probabilidade de sobrevivência dos passageiros do Titanic.
 Usando Python, Pandas, Numpy e ETL Process.
 
 
 ## Análise de Dados:
-Em TesteAnálise foi um desafio para uma vaga de Estágio em Dados/BI que inclui uma filtragem de dados com 2 scripts em SQL e um dashboard em Power BI.
+Em *TesteAnálise* foi um desafio para uma vaga de Estágio em Dados/BI que inclui uma filtragem de dados com 2 scripts em SQL e um dashboard em Power BI.
 #### Desafio SQL: 
 Desenvolver dois scripts diferentes em SQL que atendam as seguintes demandas:
 * Retorne a data, o faturamento total do dia e a soma do Peso dos produtos vendidos.

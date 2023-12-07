@@ -3,6 +3,7 @@
 ## Data Science:
 *ModeloEmPython* é um exercício que responde a probabilidade de sobrevivência dos passageiros do Titanic.
 Usando Python, Pandas, Numpy e ETL Process.
+
 Em *Desafios para DS* há alguns desafios propostos em um grupo de estudos de interessados em Data Science. Desafios em Python de vários niveis de dificuldade que tratam variadas formas de dados.
 
 

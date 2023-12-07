@@ -1,4 +1,0 @@
-with open("lista_desafio.txt", "r") as arquivo:
-    tamanhos = [len(linha.split()) for linha in arquivo]
-tamanho_maior_lista = max(tamanhos)
-print("Tamanho da maior lista:", tamanho_maior_lista)
